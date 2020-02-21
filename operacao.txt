@@ -1,1 +1,5 @@
-Opera��o:* Para maior agilidade e efici�ncia, ser� hospedado em nuvem.* Amazon Web Services
+Operação:
+•	Para maior agilidade e eficiência, será hospedado em nuvem
+•	Para o dono do sistema é melhor em nuvem, para usar o espaço necessário, não pagar por um serviço que não usará
+•	Conforme a demanda, poderá solicitar mais espaço e desempenho, caso aja crescimento do serviço oferecido
+•	Amazon Web Services

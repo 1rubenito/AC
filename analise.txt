@@ -1,1 +1,9 @@
-An�lise: * O sistema deve analisar o perfil do usu�rio que precisa chegar no destino no menor tempo poss�vel* O sistema deve criar rotas a�reas, para chegar nas esta��es e facilitar a capta��o do passageiro* O sistema deve criar uma malha aerovi�ria, para melhorar as rotas das viagens* O sistema deve liberar viagens at� uma certa dist�ncia (exemplo: s� ficaria dispon�vel a viagem, se a rota fosse menor ou igual a 30km)
+Análise: 
+•	O sistema deve solicitar ao usuário um cadastro com: e-mail, senha, método de pagamento(crédito, pré-pago, boleto)
+•	O sistema deve solicitar ao usuário ativação de localização, afim de obter a localização exata para a viagem.
+•	O sistema deve identificar o veículo mais próximo para atender ao destino no menor tempo possível
+•	O sistema deve criar rotas aéreas(estações), para facilitar a captação do passageiro
+•	O sistema deve criar uma malha aeroviária, para melhorar as rotas das viagens
+•	O sistema deve liberar viagens até uma certa distância (exemplo: só ficaria disponível a viagem, se a rota fosse menor ou igual a 30km)
+
+

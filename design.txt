@@ -1,1 +1,8 @@
-Design:* Para desenhos ser� usado: Procreate para iPad PRO* Para tratamento de imagens ser� usado: Photoshop CC 2019* Para tratamento de fotos ser� usado: Lightroom CC
+Design:
+•	Será criado um sistema do zero, afim de atender a demanda de um novo serviço.
+•	Modelo Aplicativo para Android e iOS
+•	Para desenhos será usado: Procreate para iPad PRO
+•	Para tratamento de imagens será usado: Photoshop CC 2019
+•	Para tratamento de fotos será usado: Lightroom CC
+
+
