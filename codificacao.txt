@@ -1,0 +1,5 @@
+Codificação:
+* Kotlin (Android) / Devices
+* Swift (iOS) / Devices
+* HTML / CSS / Javascript ,para WEB
+* Visual Studio Code

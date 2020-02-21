@@ -1,0 +1,1 @@
+Testes:* Ferramenta Appium, para testar os aplicativos em Android e iOS.* Ferramenta Ranorex, para testar em diversos navegadores.* Ferramenta Selenium, para testar mais profundamente os aplicativos e browsers.

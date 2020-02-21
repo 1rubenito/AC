@@ -1,0 +1,1 @@
+Operação:* Para maior agilidade e eficiência, será hospedado em nuvem.* Amazon Web Services
