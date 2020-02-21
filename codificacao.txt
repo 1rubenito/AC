@@ -1,5 +1,23 @@
-Codifica��o:
-* Kotlin (Android) / Devices
-* Swift (iOS) / Devices
-* HTML / CSS / Javascript ,para WEB
-* Visual Studio Code
+Codificação:
+•	Kotlin (Android) / Devices
+•	Swift (iOS) / Devices
+•	Visual Studio Code
+•	Haverá um mapa na tela inicial, que por geolocalização mostrará ao usuário o tempo para embarque. Indicará a rota.
+•	Mostrará antes do início da viagem, opções para personalizar a viagem como: se prefere ar condicionado, rádio preferida mais... 
+•	Botões para:
+1.	Dividir viagem
+2.	Compartilhar trajeto da viagem
+3.	Cancelar viagem
+4.	Reportar problemas
+5.	Escolher modelo de carro voador
+6.	Agendar viagens
+7.	Compartilhar localização com motorista
+•	Menu tem botões para:
+1.	Cadastro
+2.	Configurações
+3.	Pagamento
+4.	Ajuda
+5.	Contribua(sugestões, reclamações e ideias)
+6.	Missão da empresa
+
+
